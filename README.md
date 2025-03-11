@@ -1,3 +1,3 @@
 # Repo-demo
-Demo of git - unerstand
+Demo of git - understand
 demo of git pull
